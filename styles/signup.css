@@ -1,0 +1,16 @@
+body {
+  font-family: "Inter", sans-serif;
+  overflow: hidden;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  gap: 1vh;
+}
+
+form input {
+  width: 30%;
+  height: 4%;
+}
